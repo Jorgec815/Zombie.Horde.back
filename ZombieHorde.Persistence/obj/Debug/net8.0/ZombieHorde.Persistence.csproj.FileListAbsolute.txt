@@ -1,0 +1,15 @@
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\bin\Debug\net8.0\ZombieHorde.Persistence.deps.json
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\bin\Debug\net8.0\ZombieHorde.Persistence.dll
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\bin\Debug\net8.0\ZombieHorde.Persistence.pdb
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\bin\Debug\net8.0\ZombieHorde.Core.dll
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\bin\Debug\net8.0\ZombieHorde.Core.pdb
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ZombieHorde.Persistence.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ZombieHorde.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ZombieHorde.Persistence.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ZombieHorde.Persistence.AssemblyInfo.cs
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ZombieHorde.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ZombieHo.C611E2F6.Up2Date
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ZombieHorde.Persistence.dll
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\refint\ZombieHorde.Persistence.dll
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ZombieHorde.Persistence.pdb
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Persistence\obj\Debug\net8.0\ref\ZombieHorde.Persistence.dll

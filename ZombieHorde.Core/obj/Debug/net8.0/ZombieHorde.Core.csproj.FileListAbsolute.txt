@@ -1,0 +1,12 @@
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\bin\Debug\net8.0\ZombieHorde.Core.deps.json
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\bin\Debug\net8.0\ZombieHorde.Core.dll
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\bin\Debug\net8.0\ZombieHorde.Core.pdb
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\ZombieHorde.Core.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\ZombieHorde.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\ZombieHorde.Core.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\ZombieHorde.Core.AssemblyInfo.cs
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\ZombieHorde.Core.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\ZombieHorde.Core.dll
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\refint\ZombieHorde.Core.dll
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\ZombieHorde.Core.pdb
+C:\Users\jorge\source\repos\ZombieHorde\ZombieHorde.Core\obj\Debug\net8.0\ref\ZombieHorde.Core.dll
